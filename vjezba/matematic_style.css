@@ -1,0 +1,23 @@
+body{
+
+background-color: black;
+}
+p{
+
+margin-left: 5px;
+color: white;
+font-size: 20px;
+margin-top: 3px;
+font-style: italic;
+}
+.logo{
+
+height: 70px;
+margin-left: 1500px;
+
+}
+
+a{
+
+  color: red;
+}

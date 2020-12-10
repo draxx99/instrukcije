@@ -1,0 +1,56 @@
+body{
+color: white;
+background-image: url(eee.jpg)
+}
+
+*{
+margin:0;
+box-sizing: border-box;
+padding: 0;
+}
+
+ul{
+ padding: 0px;
+  list-style: none;
+}
+
+ul li{
+  width: 300px;
+  float: left;
+  height: 30px;
+  font-style: italic;
+  background-color: #C1CDC1;
+  opacity: .7;
+  line-height: 30px;
+  text-align: center;
+  font-size: 20px;
+  margin-right: 2px;
+  color: black;
+}
+
+ul li a{
+
+text-decoration: none;
+color:black;
+display: block;
+font-style: italic;
+
+}
+ul li ul li{
+  display: none;
+}
+
+ul li:hover ul li{
+  display: block;
+}
+
+.vjezba{
+margin-top: 3px;
+margin-left: 350px;
+}
+
+h1{
+  color:blue;
+  opacity: .5;
+  font-size: 20px;
+}
